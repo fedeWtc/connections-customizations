@@ -1,0 +1,24 @@
+{
+    "name": "Gray Theme",
+    "title": "Gray Theme",
+    "description": "Gray Theme",
+    "services": [
+        "Customizer"
+    ],
+    "extensions": [
+        {
+            "name": "gray-theme",
+            "type": "com.ibm.customizer.ui",
+            "payload": {
+                "include-repo": {
+                    "name": "wintech-connections-customizations"
+                },
+                "include-files": [
+                    "theme-customizations/gray-theme.css"
+                ]
+            },
+            "path": "global",
+            "application": "Gray Theme"
+        }
+    ]
+}
