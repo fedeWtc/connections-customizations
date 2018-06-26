@@ -1,28 +1,11 @@
+/* Top navigation */
 .ics-scbanner {
     background-color: #666 !important;
 }
+/* end top navigation */
 
 /* home components */
-.lotusui30 .lotusStream #activityStreamMain.lotusWidgetBody .streamHeaderWrapper .lotusPaging {
-    background: #666 !important;
-}
-
-.lotusStream #activityStreamMain.lotusWidgetBody .stream-finLeft, .lotusStream #activityStreamMain.lotusWidgetBody .stream-finRight {
-    background: #666 !important;
-}
-/* end home components */
-
 .lotusui30 .lotusMenu .lotusHeaderSelected, .lotusui30 .lotusMenu li.lotusSelected, .lotusui30 .lotusMenu li.lotusSelected:active, .lotusui30 .lotusMenu li.lotusSelected:focus, .lotusui30 .lotusMenu li.lotusSelected:hover, .lotusui30 .lotusMenu li.lotusSelected:visited {
     border-left: 4px solid #666 !important;
 }
-
-/* search button */
-.search-history-view-ui .lotusui30 .icSearchPaneButton {
-    background-color: #666;
-    outline: #666 solid 1px;
-}
-
-.search-history-view-ui .lotusui30 .icSearchPaneButton.icSearchBarMode .icSearchBar .dijitTextBox, .search-history-view-ui .lotusui30 .icSearchPane .icTopSection .icSearchBar .dijitTextBox {
-    border-bottom-color: #666;
-}
-/* end search button */
+/* end home components */
